@@ -1,0 +1,11 @@
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_login/obj/Debug/netcoreapp2.0/csharp_login.csprojResolveAssemblyReference.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_login/obj/Debug/netcoreapp2.0/csharp_login.csproj.CoreCompileInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_login/obj/Debug/netcoreapp2.0/csharp_login.AssemblyInfoInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_login/obj/Debug/netcoreapp2.0/csharp_login.AssemblyInfo.cs
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_login/bin/Debug/netcoreapp2.0/csharp_login.deps.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_login/bin/Debug/netcoreapp2.0/csharp_login.runtimeconfig.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_login/bin/Debug/netcoreapp2.0/csharp_login.runtimeconfig.dev.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_login/bin/Debug/netcoreapp2.0/csharp_login.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_login/bin/Debug/netcoreapp2.0/csharp_login.pdb
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_login/obj/Debug/netcoreapp2.0/csharp_login.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/csharp_login/obj/Debug/netcoreapp2.0/csharp_login.pdb

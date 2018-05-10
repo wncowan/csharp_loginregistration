@@ -1,0 +1,32 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+<h1>Enter your information</h1>
+<ul>
+    @{
+        foreach(var field in ViewBag.ModelFields)
+        {
+            if (field.Errors.Count > 0)
+            {
+                <li>@field.Errors[0].ErrorMessage</li>
+            }
+        }
+    }
+</ul>
+
+<h2>Register</h2>
+<form action="/process" method="POST">
+    First Name: <input type="text" name="firstName" placeholder="First Name"><br><br>
+    Last Name: <input type="text" name="lastName" placeholder="Last Name"><br><br>
+    Email: <input type="email" name="email" placeholder="Email"><br><br>
+    Password: <input type="password" name="password" placeholder="Password"><br><br>
+    Confirm Password: <input type="password" name="confirmPassword" placeholder="Confirm Password"><br><br>
+    <input type="submit" value="Register">
+</form>
+<hr>
+<h2>Login</h2>
+<form action="/login" method="POST">
+    Email: <input type="email" name="email" placeholder="Email"><br><br>
+    Password: <input type="password" name="password" placeholder="Password"><br><br>
+    <input type="submit" value="Login">
+</form>
